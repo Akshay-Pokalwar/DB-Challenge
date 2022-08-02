@@ -49,10 +49,10 @@ public class AccountsService {
 		
 //		********************************
 //		Dummy accounts to be created
-		Account fromAccountObj = new Account("Id-1", new BigDecimal(4569));
-		Account toAccountObj = new Account("Id-3", new BigDecimal(10598));
-		createAccount(fromAccountObj);
-		createAccount(toAccountObj);
+//		Account fromAccountObj = new Account("Id-1", new BigDecimal(4569));
+//		Account toAccountObj = new Account("Id-3", new BigDecimal(10598));
+//		createAccount(fromAccountObj);
+//		createAccount(toAccountObj);
 //		********************************
 		
 		try {
